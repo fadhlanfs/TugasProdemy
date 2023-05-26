@@ -83,9 +83,7 @@ public class Main {
         System.out.println("\n \n Soal Nomor 3");
 
         int g = 9;
-
         int before1 = 0, before2 = 1, h = 1;
-
         int left = 0;
         int right = g - 1;
 
